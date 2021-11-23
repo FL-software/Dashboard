@@ -4,4 +4,4 @@ Quadro de avisos onde serão selecionados os projetos desenvolvidos anteriorment
 
 Primeiro Projeto do Dashboard, seis dashboards mostrando informações, primeiro mostrando uma lista e os outros mostrando contadores (os dashboards podem ser minimizados, maximizados e fechados).
 
-![image](https://user-images.githubusercontent.com/92814178/143058466-2f13bbd1-688b-47f7-b1b2-fbcd45786393.png)
+![image](https://user-images.githubusercontent.com/92823045/143143194-a977ddc2-bcaf-4bd0-b7f1-2d1b74963ca6.png)
